@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MySqlJava/MySqlJava.iml" filepath="$PROJECT_DIR$/../MySqlJava/MySqlJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResumeDesktopApp.iml" filepath="$PROJECT_DIR$/ResumeDesktopApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ResumeWebApp/ResumeWebApp.iml" filepath="$PROJECT_DIR$/../ResumeWebApp/ResumeWebApp.iml" />
+    </modules>
+  </component>
+</project>
